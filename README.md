@@ -2,6 +2,7 @@
 
 This repo shows how to get ImageMagick and Rmagick install on OSX 10.11 __without using Homebrew__.  
 
+__source folder contains the tar balls I used__
 
 ## Install Xcode and OSX Development Tools from Apple
 
@@ -18,7 +19,7 @@ This repo shows how to get ImageMagick and Rmagick install on OSX 10.11 __withou
 
 
 
-# Install Libtools
+## Install Libtools
 
 * `tar xfvz libtool-2.4.6.tar.gz`
 * `cd libtool-2.4.6`
@@ -27,11 +28,11 @@ This repo shows how to get ImageMagick and Rmagick install on OSX 10.11 __withou
 * `sudo make install`
 
 
-# Install Pkg-Config
+## Install Pkg-Config
 
 * Easier to install this as a pkg binary (from here: http://rudix.org/packages/pkg-config.html)
 
-# Install ImageMagick
+## Install ImageMagick
 
 * `tar xfvz ImageMagick-x86_64-apple-darwin15.0.0.tar.gz`
 * `cd libtool-2.4.6`
@@ -39,11 +40,11 @@ This repo shows how to get ImageMagick and Rmagick install on OSX 10.11 __withou
 * `make`
 * `sudo make install`
 
-# Install Rmagic
+## Install Rmagic
 
 * `sudo gem install rmagick`
 
 
-# Install Carrierwave (Optional)
+## Install Carrierwave (Optional)
 
 * `sudo gem install carrierwave`
