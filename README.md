@@ -2,7 +2,7 @@
 
 This repo shows how to get ImageMagick and Rmagick install on OSX 10.11 __without using Homebrew__.  
 
-_source folder contains the tar balls I used_
+_Remark: source folder contains the tar balls I used_
 
 ## Install Xcode and OSX Development Tools from Apple
 
