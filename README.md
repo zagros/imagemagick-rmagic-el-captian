@@ -35,7 +35,7 @@ _Remark: source folder contains the tar balls I used_
 ## Install ImageMagick
 
 * `tar xfvz ImageMagick-x86_64-apple-darwin15.0.0.tar.gz`
-* `cd libtool-2.4.6`
+* `cd ImageMagick-6.9.2`
 * `./configure`
 * `make`
 * `sudo make install`
