@@ -69,7 +69,7 @@ _Remark: source folder contains the tar balls I used_
 
 * `tar xfvz ImageMagick-x86_64-apple-darwin15.0.0.tar.gz`
 * `cd ImageMagick-6.9.2`
-* `./configure --with-bzlib=yes --with-fontconfig=yes --with-freetype=yes --with-gslib=yes --with-gvc=yes --with-jpeg=yes --with-jp2=yes --with-png=yes --with-tiff=yes --with-zlib=yes`
+* `./configure --with-bzlib=yes --with-fontconfig=yes --with-freetype=yes --with-gslib=yes --with-gvc=yes --with-jpeg=yes --with-png=yes --with-tiff=yes --with-zlib=yes`
 * `make`
 * `sudo make install`
 
